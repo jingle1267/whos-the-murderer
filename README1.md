@@ -1,8 +1,10 @@
-### Solo Project - Guess the murderer!
+# Solo Project - Guess the murderer!
 
 ===================
 
 Built with Python and React
+-------------------
+## Release 1 - Uses already provided faces
 
 #### 1. User can create an account and login
 Initial release use React login? Or consider setting up oauth??
@@ -34,6 +36,12 @@ Google Vision also provides other data that could be utilized for more specific 
 
 #### 7. The user can click on a face to make a guess
 If the guess is wrong the face is X-ed out (maybe flips over, or greys out, or a animated X is drawn across). If the guess is correct the face is animated to enlarge/glow or something and user is shown a message. `Well done! You have found the murderer! Have you considered a role in law enforment?`
+
+## Release 2 - Users upload their own photos
+-------------
+
+#### Google Vision is called each time when a user uploads their photos
+If the photo does not match one of the 5 classifications, photo is rejected and user is asked to upload a new one.
 
 
 
