@@ -21,7 +21,7 @@ The database will be populated with a set (10?) of images (with names), each fac
  - Headwear/Hat
 
 #### 1. User can create an account and login
-Use oauth.
+[Use oauth] (https://www.npmjs.com/package/react-oauth-flow)
 #### 2. User clicks to start a new game and a new murderer is generated
 One face is randomly selected and Google Vision analyzes the image. The json data provided will be parsed through and saved. State will know who the murderer is and their main attribute. 
 #### 3. User is shown a set of faces (with names)
