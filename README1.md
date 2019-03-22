@@ -1,4 +1,5 @@
-# Solo Project - A guessing game using faces - Who's the murderer? 
+# Who's the murderer?
+### A guessing game using faces
 
 Built with Python, React and Google Vision. Google Vision can analyze faces and can determine if a face falls into any of the following 7 categories. My goal is to use 5 of these classifcations to create a Guess Who style game. 
  - Joy
@@ -56,4 +57,4 @@ Google Vision is called each time when a user uploads their photos.  If the phot
  Challenge - managing how the winner is communicated across all players. - Maybe need Redux??
 
 ## Release 4 - Implement a chatbox for players to share discoveries
-Or lead others astray!
+Or lead others astray! 😈
