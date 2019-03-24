@@ -1,0 +1,774 @@
+{
+  "faceAnnotations": [
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 562,
+            "y": 182
+          },
+          {
+            "x": 1991,
+            "y": 182
+          },
+          {
+            "x": 1991,
+            "y": 1844
+          },
+          {
+            "x": 562,
+            "y": 1844
+          }
+        ]
+      },
+      "fdBoundingPoly": {
+        "vertices": [
+          {
+            "x": 761,
+            "y": 733
+          },
+          {
+            "x": 1772,
+            "y": 733
+          },
+          {
+            "x": 1772,
+            "y": 1743
+          },
+          {
+            "x": 761,
+            "y": 1743
+          }
+        ]
+      },
+      "landmarks": [
+        {
+          "type": "LEFT_EYE",
+          "position": {
+            "x": 1051.7284,
+            "y": 1023.3739,
+            "z": 0.0015979275
+          }
+        },
+        {
+          "type": "RIGHT_EYE",
+          "position": {
+            "x": 1455.0289,
+            "y": 1025.6245,
+            "z": -28.886435
+          }
+        },
+        {
+          "type": "LEFT_OF_LEFT_EYEBROW",
+          "position": {
+            "x": 890.0519,
+            "y": 919.9154,
+            "z": 26.55904
+          }
+        },
+        {
+          "type": "RIGHT_OF_LEFT_EYEBROW",
+          "position": {
+            "x": 1138.5137,
+            "y": 957.71094,
+            "z": -111.28906
+          }
+        },
+        {
+          "type": "LEFT_OF_RIGHT_EYEBROW",
+          "position": {
+            "x": 1348.4053,
+            "y": 952.3451,
+            "z": -127.4326
+          }
+        },
+        {
+          "type": "RIGHT_OF_RIGHT_EYEBROW",
+          "position": {
+            "x": 1614.0646,
+            "y": 925.0548,
+            "z": -24.251532
+          }
+        },
+        {
+          "type": "MIDPOINT_BETWEEN_EYES",
+          "position": {
+            "x": 1244.9828,
+            "y": 1047.6438,
+            "z": -102.5977
+          }
+        },
+        {
+          "type": "NOSE_TIP",
+          "position": {
+            "x": 1237.2844,
+            "y": 1317.4054,
+            "z": -167.62914
+          }
+        },
+        {
+          "type": "UPPER_LIP",
+          "position": {
+            "x": 1253.0239,
+            "y": 1428.5918,
+            "z": -33.26872
+          }
+        },
+        {
+          "type": "LOWER_LIP",
+          "position": {
+            "x": 1251.0973,
+            "y": 1598.2241,
+            "z": 40.89437
+          }
+        },
+        {
+          "type": "MOUTH_LEFT",
+          "position": {
+            "x": 1088.9167,
+            "y": 1480.7981,
+            "z": 108.97073
+          }
+        },
+        {
+          "type": "MOUTH_RIGHT",
+          "position": {
+            "x": 1419.1831,
+            "y": 1475.9363,
+            "z": 84.661476
+          }
+        },
+        {
+          "type": "MOUTH_CENTER",
+          "position": {
+            "x": 1249.4119,
+            "y": 1495.9001,
+            "z": 16.990837
+          }
+        },
+        {
+          "type": "NOSE_BOTTOM_RIGHT",
+          "position": {
+            "x": 1359.7988,
+            "y": 1309.5376,
+            "z": -7.2417
+          }
+        },
+        {
+          "type": "NOSE_BOTTOM_LEFT",
+          "position": {
+            "x": 1129.9816,
+            "y": 1306.9905,
+            "z": 10.886372
+          }
+        },
+        {
+          "type": "NOSE_BOTTOM_CENTER",
+          "position": {
+            "x": 1245.2036,
+            "y": 1358.6362,
+            "z": -53.87234
+          }
+        },
+        {
+          "type": "LEFT_EYE_TOP_BOUNDARY",
+          "position": {
+            "x": 1031.3171,
+            "y": 1007.7595,
+            "z": -32.77035
+          }
+        },
+        {
+          "type": "LEFT_EYE_RIGHT_CORNER",
+          "position": {
+            "x": 1121.364,
+            "y": 1035.9159,
+            "z": -1.0006652
+          }
+        },
+        {
+          "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+          "position": {
+            "x": 1041.0328,
+            "y": 1055.6733,
+            "z": 5.268018
+          }
+        },
+        {
+          "type": "LEFT_EYE_LEFT_CORNER",
+          "position": {
+            "x": 950.4543,
+            "y": 1021.1203,
+            "z": 47.38159
+          }
+        },
+        {
+          "type": "LEFT_EYE_PUPIL",
+          "position": {
+            "x": 1025.6476,
+            "y": 1032.7908,
+            "z": -6.7863984
+          }
+        },
+        {
+          "type": "RIGHT_EYE_TOP_BOUNDARY",
+          "position": {
+            "x": 1464.7036,
+            "y": 1010.72473,
+            "z": -63.277878
+          }
+        },
+        {
+          "type": "RIGHT_EYE_RIGHT_CORNER",
+          "position": {
+            "x": 1555.6093,
+            "y": 1025.2354,
+            "z": 4.8016915
+          }
+        },
+        {
+          "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+          "position": {
+            "x": 1460.1165,
+            "y": 1058.123,
+            "z": -25.06732
+          }
+        },
+        {
+          "type": "RIGHT_EYE_LEFT_CORNER",
+          "position": {
+            "x": 1379.6742,
+            "y": 1041.1566,
+            "z": -18.824003
+          }
+        },
+        {
+          "type": "RIGHT_EYE_PUPIL",
+          "position": {
+            "x": 1470.6469,
+            "y": 1036.0536,
+            "z": -38.782642
+          }
+        },
+        {
+          "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+          "position": {
+            "x": 1009.6172,
+            "y": 890.97845,
+            "z": -83.04698
+          }
+        },
+        {
+          "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+          "position": {
+            "x": 1480.2834,
+            "y": 894.11615,
+            "z": -116.305214
+          }
+        },
+        {
+          "type": "LEFT_EAR_TRAGION",
+          "position": {
+            "x": 798.4235,
+            "y": 1108.2579,
+            "z": 591.37744
+          }
+        },
+        {
+          "type": "RIGHT_EAR_TRAGION",
+          "position": {
+            "x": 1773.3412,
+            "y": 1116.7034,
+            "z": 517.6654
+          }
+        },
+        {
+          "type": "FOREHEAD_GLABELLA",
+          "position": {
+            "x": 1241.9539,
+            "y": 950.20715,
+            "z": -136.9721
+          }
+        },
+        {
+          "type": "CHIN_GNATHION",
+          "position": {
+            "x": 1255.6482,
+            "y": 1757.941,
+            "z": 143.8906
+          }
+        },
+        {
+          "type": "CHIN_LEFT_GONION",
+          "position": {
+            "x": 835.60236,
+            "y": 1422.9966,
+            "z": 483.9551
+          }
+        },
+        {
+          "type": "CHIN_RIGHT_GONION",
+          "position": {
+            "x": 1724.974,
+            "y": 1428.26,
+            "z": 421.43457
+          }
+        }
+      ],
+      "rollAngle": -0.62123597,
+      "panAngle": -4.1426654,
+      "tiltAngle": -13.89358,
+      "detectionConfidence": 0.99487203,
+      "landmarkingConfidence": 0.5887319,
+      "joyLikelihood": "UNLIKELY",
+      "sorrowLikelihood": "VERY_UNLIKELY",
+      "angerLikelihood": "LIKELY",
+      "surpriseLikelihood": "VERY_UNLIKELY",
+      "underExposedLikelihood": "VERY_UNLIKELY",
+      "blurredLikelihood": "VERY_UNLIKELY",
+      "headwearLikelihood": "VERY_UNLIKELY"
+    }
+  ],
+  "labelAnnotations": [
+    {
+      "mid": "/m/0jyfg",
+      "description": "Glasses",
+      "score": 0.8665847,
+      "topicality": 0.8665847
+    },
+    {
+      "mid": "/m/012t_z",
+      "description": "Businessperson",
+      "score": 0.697591,
+      "topicality": 0.697591
+    },
+    {
+      "mid": "/m/0j272k5",
+      "description": "Eyewear",
+      "score": 0.68631387,
+      "topicality": 0.68631387
+    },
+    {
+      "mid": "/m/0244x1",
+      "description": "Gesture",
+      "score": 0.58541924,
+      "topicality": 0.58541924
+    },
+    {
+      "mid": "/m/019nj4",
+      "description": "Smile",
+      "score": 0.5404296,
+      "topicality": 0.5404296
+    },
+    {
+      "mid": "/m/0h8jxfl",
+      "description": "Vision care",
+      "score": 0.5188119,
+      "topicality": 0.5188119
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 75,
+            "green": 50,
+            "blue": 45
+          },
+          "score": 0.17596538,
+          "pixelFraction": 0.13866666
+        },
+        {
+          "color": {
+            "red": 254,
+            "green": 253,
+            "blue": 251
+          },
+          "score": 0.09494218,
+          "pixelFraction": 0.22026667
+        },
+        {
+          "color": {
+            "red": 166,
+            "green": 35,
+            "blue": 9
+          },
+          "score": 0.05196726,
+          "pixelFraction": 0.011
+        },
+        {
+          "color": {
+            "red": 77,
+            "green": 46,
+            "blue": 29
+          },
+          "score": 0.11380924,
+          "pixelFraction": 0.07666667
+        },
+        {
+          "color": {
+            "red": 100,
+            "green": 68,
+            "blue": 53
+          },
+          "score": 0.07193471,
+          "pixelFraction": 0.063666664
+        },
+        {
+          "color": {
+            "red": 113,
+            "green": 72,
+            "blue": 33
+          },
+          "score": 0.06052541,
+          "pixelFraction": 0.049266666
+        },
+        {
+          "color": {
+            "red": 63,
+            "green": 44,
+            "blue": 38
+          },
+          "score": 0.056918353,
+          "pixelFraction": 0.048933335
+        },
+        {
+          "color": {
+            "red": 92,
+            "green": 65,
+            "blue": 61
+          },
+          "score": 0.05000322,
+          "pixelFraction": 0.040333334
+        },
+        {
+          "color": {
+            "red": 88,
+            "green": 49,
+            "blue": 13
+          },
+          "score": 0.034795403,
+          "pixelFraction": 0.019666666
+        },
+        {
+          "color": {
+            "red": 32,
+            "green": 19,
+            "blue": 15
+          },
+          "score": 0.032019757,
+          "pixelFraction": 0.031866666
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 2303
+            },
+            {
+              "x": 2303,
+              "y": 2867
+            },
+            {
+              "y": 2867
+            }
+          ]
+        },
+        "confidence": 1,
+        "importanceFraction": 1.36
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 2303
+            },
+            {
+              "x": 2303,
+              "y": 2314
+            },
+            {
+              "y": 2314
+            }
+          ]
+        },
+        "confidence": 0.29999998,
+        "importanceFraction": 1.35
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "y": 102
+            },
+            {
+              "x": 2303,
+              "y": 102
+            },
+            {
+              "x": 2303,
+              "y": 2038
+            },
+            {
+              "y": 2038
+            }
+          ]
+        },
+        "confidence": 0.29999998,
+        "importanceFraction": 1.23
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/0b03h",
+        "score": 0.8888,
+        "description": "Divorce"
+      },
+      {
+        "entityId": "/m/01bl8s",
+        "score": 0.5219,
+        "description": "Common-law marriage"
+      },
+      {
+        "entityId": "/m/0426fs",
+        "score": 0.5147,
+        "description": "Intimate relationship"
+      },
+      {
+        "entityId": "/m/04ztj",
+        "score": 0.3955,
+        "description": "Marriage"
+      },
+      {
+        "entityId": "/m/0k05r",
+        "score": 0.3768,
+        "description": "Court"
+      },
+      {
+        "entityId": "/m/018nf6",
+        "score": 0.3135,
+        "description": "Child support"
+      },
+      {
+        "entityId": "/t/22hhhj7k9yc4w",
+        "score": 0.3099
+      },
+      {
+        "entityId": "/g/15dqmm29",
+        "score": 0.2968,
+        "description": "חוק"
+      },
+      {
+        "entityId": "/t/27z6h04s0mm_4",
+        "score": 0.296
+      },
+      {
+        "entityId": "/t/24mypdx4svpvn",
+        "score": 0.2888
+      },
+      {
+        "entityId": "/m/0hxyj",
+        "score": 0.2721,
+        "description": "Advocate"
+      },
+      {
+        "entityId": "/m/04nr2",
+        "score": 0.2626,
+        "description": "Life"
+      },
+      {
+        "entityId": "/g/121dcy_c",
+        "score": 0.2611,
+        "description": "Bedürfnis"
+      },
+      {
+        "entityId": "/g/11c5brtlr2",
+        "score": 0.218,
+        "description": "FundsforWriters"
+      },
+      {
+        "entityId": "/m/048knlz",
+        "score": 0.1778,
+        "description": "Love"
+      }
+    ],
+    "fullMatchingImages": [
+      {
+        "url": "https://www.karat-law.co.il/wp-content/uploads/2014/03/Divorce_421.jpg"
+      },
+      {
+        "url": "http://bloggfiler.no/hverdagspsykopati.blogg.no/images/sint_dame-2025515-6-1536442236151.jpg"
+      },
+      {
+        "url": "https://fundsforwriters.com/wp-content/uploads/2018/02/dreamstimefree_2902664-e1519433691722.jpg"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "https://fundsforwriters.com/rude-literary-agents/",
+        "pageTitle": "Rude Literary Agents | | FundsforWriters",
+        "fullMatchingImages": [
+          {
+            "url": "https://fundsforwriters.com/wp-content/uploads/2018/02/dreamstimefree_2902664-e1519433691722.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.karat-law.co.il/%D7%99%D7%93%D7%95%D7%A2%D7%99%D7%9D_%D7%91%D7%A6%D7%99%D7%91%D7%95%D7%A8_%D7%9B%D7%9C_%D7%94%D7%96%D7%9B%D7%95%D7%99%D7%95%D7%AA/",
+        "pageTitle": "ידועים בציבור כל הזכויות - עו&amp;quot;ד ארז קרט",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.karat-law.co.il/wp-content/uploads/2014/03/Divorce_421.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.karat-law.co.il/%D7%9B%D7%9E%D7%94_%D7%96%D7%9E%D7%9F_%D7%9C%D7%95%D7%A7%D7%97_%D7%9C%D7%94%D7%AA%D7%92%D7%A8%D7%A9/",
+        "pageTitle": "כמה זמן לוקח להתגרש - עו&amp;quot;ד ארז קרט",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.karat-law.co.il/wp-content/uploads/2014/03/Divorce_421.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.karat-law.co.il/%D7%97%D7%95%D7%A7%D7%99_%D7%92%D7%99%D7%A8%D7%95%D7%A9%D7%99%D7%9F/",
+        "pageTitle": "חוקי גירושין - עו&amp;quot;ד ארז קרט",
+        "fullMatchingImages": [
+          {
+            "url": "http://karat-law.co.il/images/Divorce_42.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.karat-law.co.il/%D7%A4%D7%AA%D7%99%D7%97%D7%AA_%D7%AA%D7%99%D7%A7_%D7%92%D7%99%D7%A8%D7%95%D7%A9%D7%99%D7%9F/",
+        "pageTitle": "פתיחת תיק גירושין - עו&amp;quot;ד ארז קרט",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.karat-law.co.il/wp-content/uploads/2014/03/Divorce_421.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://hverdagspsykopati.blogg.no/",
+        "pageTitle": "hverdagspsykopati - Her finner du fagstoff om psykopatiske trekk ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://bloggfiler.no/hverdagspsykopati.blogg.no/images/sint_dame-2025515-6-1536442236151.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.karat-law.co.il/%D7%92%D7%99%D7%A8%D7%95%D7%A9%D7%99%D7%9F_%D7%91%D7%94%D7%A8%D7%99%D7%95%D7%9F/",
+        "pageTitle": "גירושין בהריון - עו&amp;quot;ד ארז קרט",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.karat-law.co.il/wp-content/uploads/2014/03/Divorce_421.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.karat-law.co.il/%D7%90%D7%99%D7%9A-%D7%9E%D7%AA%D7%91%D7%A6%D7%A2%D7%99%D7%9D-%D7%92%D7%99%D7%A8%D7%95%D7%A9%D7%99%D7%9F-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C/",
+        "pageTitle": "איך מתבצעים גירושין בישראל - עו&amp;quot;ד ארז קרט",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.karat-law.co.il/wp-content/uploads/2014/03/Divorce_421.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.karat-law.co.il/%D7%AA%D7%A2%D7%95%D7%93%D7%AA_%D7%92%D7%99%D7%A8%D7%95%D7%A9%D7%99%D7%9D/",
+        "pageTitle": "תעודת גירושים - עו&amp;quot;ד ארז קרט",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.karat-law.co.il/wp-content/uploads/2014/03/Divorce_421.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://m.hverdagspsykopati.blogg.no/",
+        "pageTitle": "hverdagspsykopati - Her finner du fagstoff om psykopatiske trekk ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://bloggfiler.no/hverdagspsykopati.blogg.no/images/sint_dame-2025515-6-1536442236151.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://hverdagspsykopati.blogg.no/1536443013_det_er_til_ditt_eget_beste.html",
+        "pageTitle": "Det er til ditt eget beste! - hverdagspsykopati - Her finner du fagstoff ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://bloggfiler.no/hverdagspsykopati.blogg.no/images/sint_dame-2025515-6-1536442236151.jpg"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://poloparkdental.ca/wp-content/uploads/2017/04/Bonnie-606x800.jpg"
+      },
+      {
+        "url": "http://www.reichlortho.com/assets/uploads/images/metal-braces.jpg"
+      },
+      {
+        "url": "https://www.abc.net.au/news/image/3722500-3x4-700x933.jpg"
+      },
+      {
+        "url": "https://www.elciss.com/images/photo-gal/portraits/victoria-joffe-portrait.jpg"
+      },
+      {
+        "url": "https://media.gettyimages.com/photos/ozzy-osbourne-poses-for-a-portrait-session-on-may-7-2010-in-london-picture-id110059836?s=612x612"
+      },
+      {
+        "url": "http://image4.photobiz.com/1020/36_20160604085354_2675689_medium.jpg"
+      },
+      {
+        "url": "https://static1.squarespace.com/static/54ac812fe4b0f02457ca2108/t/5ae75242575d1fd630144817/1525138773801/Summer+web+small.jpg"
+      },
+      {
+        "url": "https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/megan_smith_portrait.jpg"
+      },
+      {
+        "url": "https://www.bundestag.de/resource/image/529828/3x4/226/302/6dd5e226990799dcbf4ab188cd2cdc10/Yp/budde_katrin_gross.jpg"
+      },
+      {
+        "url": "https://cdn.firespring.com/images/bbe47138-86e8-4778-ab6c-21f458345159.jpg?size=thumbnail&amp;token=16be7b64f1f81c8df95473032ed665c8"
+      },
+      {
+        "url": "https://format-com-cld-res.cloudinary.com/image/private/s--yrsgx0YD--/c_crop,h_3735,w_3735,x_281,y_625/c_fill,g_center,h_380,w_380/a_auto,dpr_2,fl_keep_iptc.progressive,q_95,r_max/v1/80c8c9a6ea72431433f7d1fb24a04ec7/Self-portrait_.png"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hayfestival-2016-Hollie-McNish-portrait.jpg/220px-Hayfestival-2016-Hollie-McNish-portrait.jpg"
+      },
+      {
+        "url": "https://media.gettyimages.com/photos/young-man-with-long-brown-hair-portrait-picture-id200174767-001"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/en/e/ec/Lynne_Cohen.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "glasses"
+      }
+    ]
+  }
+}

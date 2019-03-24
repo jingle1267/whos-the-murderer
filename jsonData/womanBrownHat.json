@@ -1,0 +1,1320 @@
+{
+  "faceAnnotations": [
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 105,
+            "y": 44
+          },
+          {
+            "x": 358,
+            "y": 44
+          },
+          {
+            "x": 358,
+            "y": 338
+          },
+          {
+            "x": 105,
+            "y": 338
+          }
+        ]
+      },
+      "fdBoundingPoly": {
+        "vertices": [
+          {
+            "x": 155,
+            "y": 128
+          },
+          {
+            "x": 347,
+            "y": 128
+          },
+          {
+            "x": 347,
+            "y": 320
+          },
+          {
+            "x": 155,
+            "y": 320
+          }
+        ]
+      },
+      "landmarks": [
+        {
+          "type": "LEFT_EYE",
+          "position": {
+            "x": 216.86679,
+            "y": 191.21428,
+            "z": 0.000971212
+          }
+        },
+        {
+          "type": "RIGHT_EYE",
+          "position": {
+            "x": 292.33777,
+            "y": 184.83887,
+            "z": 30.124063
+          }
+        },
+        {
+          "type": "LEFT_OF_LEFT_EYEBROW",
+          "position": {
+            "x": 193.54887,
+            "y": 176.95197,
+            "z": -3.851284
+          }
+        },
+        {
+          "type": "RIGHT_OF_LEFT_EYEBROW",
+          "position": {
+            "x": 245.78171,
+            "y": 175.48502,
+            "z": -7.4498816
+          }
+        },
+        {
+          "type": "LEFT_OF_RIGHT_EYEBROW",
+          "position": {
+            "x": 280.05988,
+            "y": 171.23367,
+            "z": 6.2488923
+          }
+        },
+        {
+          "type": "RIGHT_OF_RIGHT_EYEBROW",
+          "position": {
+            "x": 313.0073,
+            "y": 163.83281,
+            "z": 43.310562
+          }
+        },
+        {
+          "type": "MIDPOINT_BETWEEN_EYES",
+          "position": {
+            "x": 264.71722,
+            "y": 188.96039,
+            "z": 1.0046712
+          }
+        },
+        {
+          "type": "NOSE_TIP",
+          "position": {
+            "x": 275.60962,
+            "y": 231.58218,
+            "z": -11.838465
+          }
+        },
+        {
+          "type": "UPPER_LIP",
+          "position": {
+            "x": 268.601,
+            "y": 257.37143,
+            "z": 8.795486
+          }
+        },
+        {
+          "type": "LOWER_LIP",
+          "position": {
+            "x": 268.34164,
+            "y": 288.60553,
+            "z": 19.511402
+          }
+        },
+        {
+          "type": "MOUTH_LEFT",
+          "position": {
+            "x": 223.0372,
+            "y": 265.96875,
+            "z": 19.166365
+          }
+        },
+        {
+          "type": "MOUTH_RIGHT",
+          "position": {
+            "x": 296.43372,
+            "y": 260.2364,
+            "z": 43.479424
+          }
+        },
+        {
+          "type": "MOUTH_CENTER",
+          "position": {
+            "x": 267.47583,
+            "y": 271.69113,
+            "z": 16.506395
+          }
+        },
+        {
+          "type": "NOSE_BOTTOM_RIGHT",
+          "position": {
+            "x": 286.9207,
+            "y": 234.2143,
+            "z": 25.389872
+          }
+        },
+        {
+          "type": "NOSE_BOTTOM_LEFT",
+          "position": {
+            "x": 243.85481,
+            "y": 238.31177,
+            "z": 8.139024
+          }
+        },
+        {
+          "type": "NOSE_BOTTOM_CENTER",
+          "position": {
+            "x": 269.0278,
+            "y": 245.55157,
+            "z": 6.2792096
+          }
+        },
+        {
+          "type": "LEFT_EYE_TOP_BOUNDARY",
+          "position": {
+            "x": 224.74376,
+            "y": 188.17696,
+            "z": -3.8286417
+          }
+        },
+        {
+          "type": "LEFT_EYE_RIGHT_CORNER",
+          "position": {
+            "x": 235.6736,
+            "y": 193.16972,
+            "z": 7.8487167
+          }
+        },
+        {
+          "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+          "position": {
+            "x": 218.3062,
+            "y": 196.92242,
+            "z": 1.6798825
+          }
+        },
+        {
+          "type": "LEFT_EYE_LEFT_CORNER",
+          "position": {
+            "x": 205.87593,
+            "y": 193.44392,
+            "z": 2.5262082
+          }
+        },
+        {
+          "type": "LEFT_EYE_PUPIL",
+          "position": {
+            "x": 222.79663,
+            "y": 193.00961,
+            "z": -0.6361153
+          }
+        },
+        {
+          "type": "RIGHT_EYE_TOP_BOUNDARY",
+          "position": {
+            "x": 294.74765,
+            "y": 180.52512,
+            "z": 24.588242
+          }
+        },
+        {
+          "type": "RIGHT_EYE_RIGHT_CORNER",
+          "position": {
+            "x": 304.23538,
+            "y": 182.6376,
+            "z": 42.41546
+          }
+        },
+        {
+          "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+          "position": {
+            "x": 294.9845,
+            "y": 189.41281,
+            "z": 30.64732
+          }
+        },
+        {
+          "type": "RIGHT_EYE_LEFT_CORNER",
+          "position": {
+            "x": 280.11615,
+            "y": 188.344,
+            "z": 25.23385
+          }
+        },
+        {
+          "type": "RIGHT_EYE_PUPIL",
+          "position": {
+            "x": 294.67838,
+            "y": 185.20212,
+            "z": 28.454817
+          }
+        },
+        {
+          "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+          "position": {
+            "x": 222.69998,
+            "y": 167.40796,
+            "z": -12.462336
+          }
+        },
+        {
+          "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+          "position": {
+            "x": 298.50806,
+            "y": 159.09367,
+            "z": 18.411572
+          }
+        },
+        {
+          "type": "LEFT_EAR_TRAGION",
+          "position": {
+            "x": 143.86357,
+            "y": 220.45317,
+            "z": 75.5921
+          }
+        },
+        {
+          "type": "RIGHT_EAR_TRAGION",
+          "position": {
+            "x": 302.55002,
+            "y": 203.00876,
+            "z": 140.33643
+          }
+        },
+        {
+          "type": "FOREHEAD_GLABELLA",
+          "position": {
+            "x": 264.36435,
+            "y": 172.54268,
+            "z": -3.601654
+          }
+        },
+        {
+          "type": "CHIN_GNATHION",
+          "position": {
+            "x": 264.8669,
+            "y": 316.25323,
+            "z": 34.00275
+          }
+        },
+        {
+          "type": "CHIN_LEFT_GONION",
+          "position": {
+            "x": 165.30193,
+            "y": 271.6561,
+            "z": 59.040558
+          }
+        },
+        {
+          "type": "CHIN_RIGHT_GONION",
+          "position": {
+            "x": 308.49182,
+            "y": 255.89517,
+            "z": 117.28076
+          }
+        }
+      ],
+      "rollAngle": -2.2379575,
+      "panAngle": 22.3548,
+      "tiltAngle": -9.880636,
+      "detectionConfidence": 0.9999488,
+      "landmarkingConfidence": 0.7469946,
+      "joyLikelihood": "VERY_LIKELY",
+      "sorrowLikelihood": "VERY_UNLIKELY",
+      "angerLikelihood": "VERY_UNLIKELY",
+      "surpriseLikelihood": "VERY_UNLIKELY",
+      "underExposedLikelihood": "VERY_UNLIKELY",
+      "blurredLikelihood": "VERY_UNLIKELY",
+      "headwearLikelihood": "VERY_UNLIKELY"
+    }
+  ],
+  "labelAnnotations": [
+    {
+      "mid": "/m/09j2d",
+      "description": "Clothing",
+      "score": 0.9742925,
+      "topicality": 0.9742925
+    },
+    {
+      "mid": "/m/02dl1y",
+      "description": "Hat",
+      "score": 0.9544872,
+      "topicality": 0.9544872
+    },
+    {
+      "mid": "/m/0463sg",
+      "description": "Fashion accessory",
+      "score": 0.8761661,
+      "topicality": 0.8761661
+    },
+    {
+      "mid": "/m/01443y",
+      "description": "Headgear",
+      "score": 0.8148347,
+      "topicality": 0.8148347
+    },
+    {
+      "mid": "/m/02d46y",
+      "description": "Cap",
+      "score": 0.80333334,
+      "topicality": 0.80333334
+    },
+    {
+      "mid": "/m/0hgs526",
+      "description": "Costume accessory",
+      "score": 0.7988712,
+      "topicality": 0.7988712
+    },
+    {
+      "mid": "/m/0hgs54_",
+      "description": "Costume hat",
+      "score": 0.72958386,
+      "topicality": 0.72958386
+    },
+    {
+      "mid": "/m/0cnmr",
+      "description": "Fur",
+      "score": 0.6139011,
+      "topicality": 0.6139011
+    },
+    {
+      "mid": "/m/02wbtzl",
+      "description": "Sun hat",
+      "score": 0.5960761,
+      "topicality": 0.5960761
+    },
+    {
+      "mid": "/m/09kxp",
+      "description": "Wool",
+      "score": 0.5713785,
+      "topicality": 0.5713785
+    },
+    {
+      "mid": "/m/02q7plb",
+      "description": "Cloche hat",
+      "score": 0.56963354,
+      "topicality": 0.56963354
+    },
+    {
+      "mid": "/m/02ksmb",
+      "description": "Brown hair",
+      "score": 0.5565419,
+      "topicality": 0.5565419
+    },
+    {
+      "mid": "/m/019nj4",
+      "description": "Smile",
+      "score": 0.5404296,
+      "topicality": 0.5404296
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 27,
+            "green": 17,
+            "blue": 19
+          },
+          "score": 0.26668626,
+          "pixelFraction": 0.22106078
+        },
+        {
+          "color": {
+            "red": 252,
+            "green": 250,
+            "blue": 250
+          },
+          "score": 0.21841165,
+          "pixelFraction": 0.31991225
+        },
+        {
+          "color": {
+            "red": 83,
+            "green": 44,
+            "blue": 37
+          },
+          "score": 0.12236419,
+          "pixelFraction": 0.060911085
+        },
+        {
+          "color": {
+            "red": 231,
+            "green": 184,
+            "blue": 171
+          },
+          "score": 0.02306388,
+          "pixelFraction": 0.068266876
+        },
+        {
+          "color": {
+            "red": 110,
+            "green": 64,
+            "blue": 57
+          },
+          "score": 0.103664316,
+          "pixelFraction": 0.10065815
+        },
+        {
+          "color": {
+            "red": 41,
+            "green": 19,
+            "blue": 20
+          },
+          "score": 0.07513645,
+          "pixelFraction": 0.03445606
+        },
+        {
+          "color": {
+            "red": 68,
+            "green": 41,
+            "blue": 41
+          },
+          "score": 0.04869403,
+          "pixelFraction": 0.022712609
+        },
+        {
+          "color": {
+            "red": 57,
+            "green": 43,
+            "blue": 44
+          },
+          "score": 0.04392733,
+          "pixelFraction": 0.028713383
+        },
+        {
+          "color": {
+            "red": 205,
+            "green": 194,
+            "blue": 197
+          },
+          "score": 0.019033406,
+          "pixelFraction": 0.017163506
+        },
+        {
+          "color": {
+            "red": 55,
+            "green": 20,
+            "blue": 14
+          },
+          "score": 0.017965091,
+          "pixelFraction": 0.006646019
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 51
+            },
+            {
+              "x": 395
+            },
+            {
+              "x": 395,
+              "y": 424
+            },
+            {
+              "x": 51,
+              "y": 424
+            }
+          ]
+        },
+        "confidence": 0.29999998,
+        "importanceFraction": 1.4699999
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 430
+            },
+            {
+              "x": 430,
+              "y": 424
+            },
+            {
+              "y": 424
+            }
+          ]
+        },
+        "confidence": 1,
+        "importanceFraction": 1.4699999
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "y": 11
+            },
+            {
+              "x": 435,
+              "y": 11
+            },
+            {
+              "x": 435,
+              "y": 373
+            },
+            {
+              "y": 373
+            }
+          ]
+        },
+        "confidence": 0.29999998,
+        "importanceFraction": 1.4499999
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/t/24mypdx4svpvn",
+        "score": 0.7172
+      },
+      {
+        "entityId": "/m/03bt1vf",
+        "score": 0.7098,
+        "description": "Woman"
+      },
+      {
+        "entityId": "/m/05r655",
+        "score": 0.7009,
+        "description": "Girl"
+      },
+      {
+        "entityId": "/g/11h0h0h282",
+        "score": 0.5763,
+        "description": "Trigger Point Therapy Workshop"
+      },
+      {
+        "entityId": "/g/11h00nt_lf",
+        "score": 0.55544996,
+        "description": "Shout It Out: Celebrating Women’s Beauty-Photographic Art and Affirmations"
+      },
+      {
+        "entityId": "/m/02zsn",
+        "score": 0.545,
+        "description": "Female"
+      },
+      {
+        "entityId": "/m/01dv4h",
+        "score": 0.4093,
+        "description": "Portrait"
+      },
+      {
+        "entityId": "/m/068jd",
+        "score": 0.4058,
+        "description": "Photograph"
+      },
+      {
+        "entityId": "/m/0svn888",
+        "score": 0.3974
+      },
+      {
+        "entityId": "/g/11fjyvk0hk",
+        "score": 0.3676
+      },
+      {
+        "entityId": "/m/04yx4",
+        "score": 0.3406,
+        "description": "Man"
+      },
+      {
+        "entityId": "/t/2cvnxcsw4b8sf",
+        "score": 0.3004
+      },
+      {
+        "entityId": "/m/02pkb8",
+        "score": 0.294,
+        "description": "Lady"
+      },
+      {
+        "entityId": "/m/0244x1",
+        "score": 0.2939,
+        "description": "Gesture"
+      },
+      {
+        "entityId": "/m/0jg24",
+        "score": 0.2859,
+        "description": "Image"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "https://dcf-delcarmenfilipe.com/wp-content/uploads/bb-plugin/cache/beautiful-cute-girl-41551-square.png"
+      },
+      {
+        "url": "https://i0.wp.com/ideal-couples.com/wp-content/uploads/2018/06/brown-15723_1920.jpg?fit=1920%2C1280&amp;ssl=1"
+      },
+      {
+        "url": "https://rcmc.nl/rcmc/wp-content/uploads/brown-15723_1920a.jpg"
+      },
+      {
+        "url": "https://proexpertosweb.com/wp-content/uploads/2019/02/Dise%C3%B1o-sin-t%C3%ADtulo-11.png"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/nRL1VzTgnNTtpnYSrhJZm1NSsD3YEFGzcp1OPudB4DtpAOfi5Fofekehf8tkQ1_xt0K97nIYlA=s1280-p-no-v1"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/b_Spw5-cYETf53tlyvc8FkdmBmf8d9FF1tT_gCVS6wmefwmP9CIN4XLfbC66iiiJOR4DCltnpw=s1280-p-no-v1"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/D1A8GIPU0AA2zBN.jpg"
+      },
+      {
+        "url": "https://i0.wp.com/www.padresam.com/wp-content/uploads/2017/05/La-amabilidad-obliga.jpeg?fit=1280%2C853&amp;ssl=1"
+      },
+      {
+        "url": "https://images-na.ssl-images-amazon.com/images/I/61sH9gYuY0L._SL1000_.jpg"
+      },
+      {
+        "url": "https://www.alexander-training.de/wp-content/uploads/2018/03/Happy-NLP-957x1030.jpg"
+      },
+      {
+        "url": "http://eneagrama.eneade.com.br/imagens/workshopFace.jpg"
+      },
+      {
+        "url": "https://e.allegroimg.com/original/0cf6b2/04c68dba4dafa8eb4fcd4e32b52e"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/JYc-MXTu8I4/maxresdefault.jpg"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/kARLsEPc1D8/maxresdefault.jpg"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/nJVGEnXlk6E/maxresdefault.jpg"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1BN6FxK_i1s/maxresdefault.jpg"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/REqFmdJdxlo/maxresdefault.jpg"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/SEoPSpL8Ups/maxresdefault.jpg"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/GJZrdX1OAxY/maxresdefault.jpg"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1107485099419564"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/heydd-0eDJM/maxresdefault.jpg"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/f7qf_z0OmFs/maxresdefault.jpg"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XULWhGV4Z5Y/maxresdefault.jpg"
+      },
+      {
+        "url": "https://1.bp.blogspot.com/-aZi2YVI8lBQ/WIoPsDuPXzI/AAAAAAAAAC8/h3LMEAF90QkB-2QEmVmH-W0ZslZAaU8CgCLcB/s1600/maxresdefault.jpg"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/w7MRwbPucHo/maxresdefault.jpg"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/coI8MmBSO08/maxresdefault.jpg"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/8mtaMNTpnuM/maxresdefault.jpg"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/UJv3-rNHY9A/maxresdefault.jpg"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/U6o6qzkdCT8/maxresdefault.jpg"
+      },
+      {
+        "url": "https://scontent-atl3-1.cdninstagram.com/vp/beee27b2279d8ebd70b83bab65dee693/5C50758B/t51.2885-15/e35/43914291_634519846949869_4863587838921327606_n.jpg"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=779430282165869"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/DJHrIO-XkAEGQtl.jpg"
+      },
+      {
+        "url": "https://hikingcampingguide.com/wp-content/uploads/2017/05/Scholarshsip.jpg"
+      },
+      {
+        "url": "https://static1.squarespace.com/static/5863f2bbbebafb318da4de03/t/593e409af7e0ab586cacad59/1497252040392/Woman+pointing+to+her+right.jpg"
+      },
+      {
+        "url": "https://mk0sifp3682my91o.kinstacdn.com/wp-content/uploads/2017/11/ProfessionsTmblJournalist_opt.png"
+      },
+      {
+        "url": "https://verstblog.files.wordpress.com/2018/08/prc3a4sentieren-und-referieren.jpg?w=1050&amp;h=700&amp;crop=1"
+      },
+      {
+        "url": "https://cdn.shortpixel.ai/client/q_lossy,ret_img/https://dentina.hu/wp-content/uploads/2017/01/mutat%C3%B3s-e1496060383336.jpg"
+      },
+      {
+        "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mathlikeB/20180620/20180620170140.jpg"
+      },
+      {
+        "url": "https://dentina.hu/wp-content/uploads/2017/01/mutat%C3%B3s-e1496060383336.jpg"
+      },
+      {
+        "url": "http://www.cursosriocuarto.com.ar/wp-content/uploads/propuestas-educativas-1024x683.jpg"
+      },
+      {
+        "url": "http://bodyke-live.com/wp-content/uploads/2019/02/brown-15723_1920-1024x683.jpg"
+      },
+      {
+        "url": "https://i2.wp.com/clubonline.cl/wp-content/uploads/2019/01/slide-1-1.png?resize=800%2C873"
+      },
+      {
+        "url": "https://to-hikaizen.com/wp-content/uploads/2018/08/%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88_1534863776-1024x682.jpg"
+      },
+      {
+        "url": "https://i2.wp.com/dreamera.org/wp-content/uploads/2018/06/brown-15723_1280.jpg?fit=789%2C848&amp;ssl=1"
+      },
+      {
+        "url": "https://image.minnkane.com/post_image/image/36112/large_%E5%8F%AF%E6%84%9B%E3%81%84%E7%AC%91%E9%A1%94%EF%BC%92.jpg"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/3vq39_2YqajUKloDZj7MwdUDWr_hzAWg5oa1hxv-YXApzDnIjoA0aXPEkBX-G7vJGqabj_anvQ=w768-h768-n-no-v1"
+      },
+      {
+        "url": "https://i0.wp.com/www.losangelesartworkforsale.com/wp-content/uploads/2018/08/buyartnow.png?resize=914%2C638&amp;ssl=1"
+      },
+      {
+        "url": "https://www.docteurnicolasgounot.com/wp-content/uploads/2017/01/sourire.jpg"
+      },
+      {
+        "url": "https://www.portuguescompleto.com.br/wp-content/uploads/2018/03/crase.png"
+      },
+      {
+        "url": "https://3.bp.blogspot.com/-eEbzuAprHMY/W8ScAzkJZeI/AAAAAAAAGoE/6TytbNZgzCcdNRzZF22mshS013BcmWgbgCLcBGAs/s1600/FB_IMG_1536251858576.jpg"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "https://www.maxpixel.net/Gesturing-Finger-Showing-Pointing-Woman-Direction-2649315",
+        "pageTitle": "Free photo Gesturing Finger Showing &lt;b&gt;Pointing Woman&lt;/b&gt; Direction ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.maxpixel.net/static/photo/640/Female-Brown-Finger-Gesture-Brunette-Girl-15723.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.maxpixel.net/Pointing-Greece-Girls-Greek-Patmos-Overlook-916566",
+        "pageTitle": "Free photo &lt;b&gt;Pointing&lt;/b&gt; Greece Girls Greek Patmos Overlook - Max Pixel",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.maxpixel.net/static/photo/640/Female-Brown-Finger-Gesture-Brunette-Girl-15723.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.putpeoplefirst.net/customers/",
+        "pageTitle": "Our Customers — People First Executive Consultants",
+        "partialMatchingImages": [
+          {
+            "url": "https://static1.squarespace.com/static/5863f2bbbebafb318da4de03/t/593e409af7e0ab586cacad59/1497252040392/Woman+pointing+to+her+right.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.maxpixel.net/Black-And-White-Pointing-Hand-Finger-924109",
+        "pageTitle": "Free photo Black And White &lt;b&gt;Pointing&lt;/b&gt; Hand Finger - Max Pixel",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.maxpixel.net/static/photo/640/Female-Brown-Finger-Gesture-Brunette-Girl-15723.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.putpeoplefirst.net/customers",
+        "pageTitle": "Our Customers — People First Executive Consultants",
+        "partialMatchingImages": [
+          {
+            "url": "https://static1.squarespace.com/static/5863f2bbbebafb318da4de03/t/593e409af7e0ab586cacad59/1497252040392/Woman+pointing+to+her+right.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.maxpixel.net/Female-Brown-Finger-Gesture-Brunette-Girl-15723",
+        "pageTitle": "Free photo &lt;b&gt;Female&lt;/b&gt; Brown Finger Gesture Brunette &lt;b&gt;Girl&lt;/b&gt; - Max Pixel",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.maxpixel.net/static/photo/640/Female-Brown-Finger-Gesture-Brunette-Girl-15723.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.underthebutton.com/staff/Becky-Molinoff",
+        "pageTitle": "Becky Molinoff | Under the Button",
+        "partialMatchingImages": [
+          {
+            "url": "https://snworksceo.imgix.net/dpn-utb/65579d92-eab2-4533-8663-be5a8ce9c1b7.sized-1000x1000.jpg?w=800"
+          }
+        ]
+      },
+      {
+        "url": "https://www.stockvault.net/c/people/portraits/?p=7&amp;s=d",
+        "pageTitle": "Free Portraits Stock Photos - Stockvault.net",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.stockvault.net/data/2017/04/27/235002/thumb16.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.stockvault.net/c/portraits/?p=7&amp;s=d",
+        "pageTitle": "Free Portraits Stock Photos - Stockvault.net",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.stockvault.net/data/2017/04/27/235002/thumb16.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://airfreshener.club/quotes/professional-pointing-woman.html",
+        "pageTitle": "Professional &lt;b&gt;Pointing Woman&lt;/b&gt; - Air Freshener",
+        "partialMatchingImages": [
+          {
+            "url": "https://tse2.mm.bing.net/th?id=OIP.IeFWb-G4io3G1snQmYjRegHaE7"
+          }
+        ]
+      },
+      {
+        "url": "https://www.eventbrite.com/d/la--baton-rouge/firework-show/?page=6",
+        "pageTitle": "Baton Rouge, LA Firework Show Events | Eventbrite",
+        "partialMatchingImages": [
+          {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F53173309%2F278428880989%2F1%2Foriginal.jpg?h=512&amp;w=512&amp;auto=compress&amp;rect=0%2C40%2C1280%2C640&amp;s=2a822c06a6543f133fffcc4368627fb0"
+          }
+        ]
+      },
+      {
+        "url": "https://www.eventbrite.ca/d/la--new-orleans/arts--events/family/",
+        "pageTitle": "New Orleans, LA Family Events | Eventbrite",
+        "partialMatchingImages": [
+          {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F53173309%2F278428880989%2F1%2Foriginal.jpg?h=512&amp;w=512&amp;auto=compress&amp;rect=0%2C40%2C1280%2C640&amp;s=2a822c06a6543f133fffcc4368627fb0"
+          }
+        ]
+      },
+      {
+        "url": "http://www.girlscosmo.com/liposuction-benefits-for-women/",
+        "pageTitle": "Liposuction Benefits For &lt;b&gt;Women&lt;/b&gt; - Advantages Of Liposuction ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://i1.wp.com/www.girlscosmo.com/wp-content/uploads/2012/08/Confidence-booster-for-women.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://quizlady.com/how-politically-correct-are-you/",
+        "pageTitle": "How Politically Correct Are You? | QuizLady",
+        "partialMatchingImages": [
+          {
+            "url": "http://quizlady.com/wp-content/uploads/qc-images/55f719597c114.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.underthebutton.com/staff/becky-molinoff",
+        "pageTitle": "Becky Molinoff | Under the Button",
+        "partialMatchingImages": [
+          {
+            "url": "https://snworksceo.imgix.net/dpn-utb/65579d92-eab2-4533-8663-be5a8ce9c1b7.sized-1000x1000.jpg?w=800"
+          }
+        ]
+      },
+      {
+        "url": "http://www.girlscosmo.com/liposuction-benefits-for-women/1347868342000/",
+        "pageTitle": "Liposuction Benefits For &lt;b&gt;Women&lt;/b&gt; - Advantages Of Liposuction ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://i1.wp.com/www.girlscosmo.com/wp-content/uploads/2012/08/Confidence-booster-for-women.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.eventbrite.com/d/la--new-orleans/arts--events/family/",
+        "pageTitle": "New Orleans, LA Family Events | Eventbrite",
+        "partialMatchingImages": [
+          {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F53173309%2F278428880989%2F1%2Foriginal.jpg?h=512&amp;w=512&amp;auto=compress&amp;rect=0%2C40%2C1280%2C640&amp;s=2a822c06a6543f133fffcc4368627fb0"
+          }
+        ]
+      },
+      {
+        "url": "https://www.wishesmessagessayings.com/best-wishes-messages.html",
+        "pageTitle": "Best Wishes Messages - Wishes Messages Sayings",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.wishesmessagessayings.com/uploads/4/3/1/5/4315349/published/brown-brunette-female-finger-41551.jpeg?1551151147"
+          }
+        ]
+      },
+      {
+        "url": "https://www.wishesmessagessayings.com/",
+        "pageTitle": "Wishes Messages Sayings - WishesMessagesSayings",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.wishesmessagessayings.com/uploads/4/3/1/5/4315349/published/brown-brunette-female-finger-41551_1.jpeg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.underthebutton.com/section/all?page=33&amp;per_page=20",
+        "pageTitle": "Most Recent | Under the Button",
+        "partialMatchingImages": [
+          {
+            "url": "https://snworksceo.imgix.net/dpn-utb/65579d92-eab2-4533-8663-be5a8ce9c1b7.sized-1000x1000.jpg?w=800"
+          }
+        ]
+      },
+      {
+        "url": "https://article.wn.com/view/2019/02/27/Mrs_Dalloway_and_the_Invisibility_of_Older_Women/",
+        "pageTitle": "Mrs. Dalloway and the Invisibility of Older &lt;b&gt;Women&lt;/b&gt; - WorldNews",
+        "partialMatchingImages": [
+          {
+            "url": "https://i.ytimg.com/vi/EdJF9aV4Vpo/0.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.eventbrite.com/d/la--baton-rouge/free--events/workshop/",
+        "pageTitle": "Free Baton Rouge, LA Workshop Events | Eventbrite",
+        "partialMatchingImages": [
+          {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F53173309%2F278428880989%2F1%2Foriginal.jpg?w=512&amp;auto=compress&amp;rect=0%2C40%2C1280%2C640&amp;s=fc569acd90ad25506b9acda50fb5c532"
+          }
+        ]
+      },
+      {
+        "url": "https://www.eventbrite.com/d/la--baton-rouge/art-classes/",
+        "pageTitle": "Baton Rouge, LA Art Classes Events | Eventbrite",
+        "partialMatchingImages": [
+          {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F53173309%2F278428880989%2F1%2Foriginal.jpg?w=512&amp;auto=compress&amp;rect=0%2C40%2C1280%2C640&amp;s=fc569acd90ad25506b9acda50fb5c532"
+          }
+        ]
+      },
+      {
+        "url": "https://www.stockvault.net/latest-photos/?o=a&amp;c=60&amp;p=719&amp;li=3",
+        "pageTitle": "Latest Photos - Stockvault.net",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.stockvault.net/data/2017/04/27/235002/thumb16.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://menarikabcd.blogspot.com/2017/01/analisis-puisi-love-and-questions-karya.html?view=classic",
+        "pageTitle": "ANALISIS PUISI LOVE AND A QUESTIONS KARYA ROBERT ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://1.bp.blogspot.com/-aZi2YVI8lBQ/WIoPsDuPXzI/AAAAAAAAAC8/h3LMEAF90QkB-2QEmVmH-W0ZslZAaU8CgCLcB/s1600/maxresdefault.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://menarikabcd.blogspot.com/2017/01/analisis-puisi-love-and-questions-karya.html?m=1",
+        "pageTitle": "ANALISIS PUISI LOVE AND A QUESTIONS KARYA ROBERT ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://1.bp.blogspot.com/-aZi2YVI8lBQ/WIoPsDuPXzI/AAAAAAAAAC8/h3LMEAF90QkB-2QEmVmH-W0ZslZAaU8CgCLcB/s1600/maxresdefault.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.eventbrite.sg/d/la--new-orleans/autism-workshop/?page=49",
+        "pageTitle": "New Orleans, LA Autism Workshop Events | Eventbrite",
+        "partialMatchingImages": [
+          {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F53173309%2F278428880989%2F1%2Foriginal.jpg?w=512&amp;auto=compress&amp;rect=0%2C40%2C1280%2C640&amp;s=fc569acd90ad25506b9acda50fb5c532"
+          }
+        ]
+      },
+      {
+        "url": "https://menarikabcd.blogspot.com/2017/01/peran-transportasi-terhadap-polusi.html?view=classic",
+        "pageTitle": "Peran Transportasi Terhadap Polusi udara yang Terjadi Di ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://1.bp.blogspot.com/-aZi2YVI8lBQ/WIoPsDuPXzI/AAAAAAAAAC8/h3LMEAF90QkB-2QEmVmH-W0ZslZAaU8CgCLcB/s1600/maxresdefault.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://princesspgaccommodationservices.business.site/",
+        "pageTitle": "Princess PG Accommodation Services - Womens Paying Guest ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://lh3.googleusercontent.com/3vq39_2YqajUKloDZj7MwdUDWr_hzAWg5oa1hxv-YXApzDnIjoA0aXPEkBX-G7vJGqabj_anvQ=w768-h768-n-no-v1"
+          }
+        ]
+      },
+      {
+        "url": "https://www.eventbrite.ca/d/la--new-orleans/free-kids/?page=27",
+        "pageTitle": "New Orleans, LA Free Kids Events | Eventbrite",
+        "partialMatchingImages": [
+          {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F53173309%2F278428880989%2F1%2Foriginal.jpg?h=512&amp;w=512&amp;auto=compress&amp;rect=0%2C40%2C1280%2C640&amp;s=2a822c06a6543f133fffcc4368627fb0"
+          }
+        ]
+      },
+      {
+        "url": "https://www.skillshare.com/user/alimirza",
+        "pageTitle": "Ali Mirza - Skillshare",
+        "partialMatchingImages": [
+          {
+            "url": "https://static.skillshare.com/uploads/video/thumbnails/f825de4128f5a852bf5164c7581e7fe3/448-252"
+          }
+        ]
+      },
+      {
+        "url": "https://www.eventbrite.sg/d/la--new-orleans/free--events/activities-today/?page=4",
+        "pageTitle": "Free New Orleans, LA Activities Today Events | Eventbrite",
+        "partialMatchingImages": [
+          {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F53173309%2F278428880989%2F1%2Foriginal.jpg?w=512&amp;auto=compress&amp;rect=0%2C40%2C1280%2C640&amp;s=fc569acd90ad25506b9acda50fb5c532"
+          }
+        ]
+      },
+      {
+        "url": "http://emarigo.blogspot.com/2019/02/",
+        "pageTitle": "The digital classroom: February 2019",
+        "partialMatchingImages": [
+          {
+            "url": "https://i.ytimg.com/vi/EdJF9aV4Vpo/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.shedlist.com/",
+        "pageTitle": "Learn a Language | Say Hello to the World-Shedlist",
+        "partialMatchingImages": [
+          {
+            "url": "https://static.wixstatic.com/media/bcf6b9_a6defc16e0714c0a80a56a6b609be798~mv2_d_3200_2133_s_2.jpg/v1/fill/w_651,h_434,al_c,q_80,usm_0.66_1.00_0.01/brown-brunette-female-finger-gesture-gir.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.amazon.com/Remover-Grooming-Deshedding-Enhanced-Right-hand-x/dp/B07D9H8V87",
+        "pageTitle": "Amazon.com : Allisandro Multifunctional Pet Mat Cat Litter Mat ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://images-na.ssl-images-amazon.com/images/I/61sH9gYuY0L._SX425_.jpg"
+          },
+          {
+            "url": "https://images-na.ssl-images-amazon.com/images/I/61sH9gYuY0L._SY450_.jpg"
+          },
+          {
+            "url": "https://images-na.ssl-images-amazon.com/images/I/61sH9gYuY0L._SL1000_.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.imaggino.com/how-do-you-get-a-guy-to-like-you/",
+        "pageTitle": "How Do You Get A Guy To Like You? 14 Tricks To Make Him Fall",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.imaggino.com/wp-content/uploads/2015/11/Homemade-Deodorant5-324x160.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://bnbhoster.com/en/",
+        "pageTitle": "BnBHoster - Your AirBnB Concierge Expert in Belgium",
+        "partialMatchingImages": [
+          {
+            "url": "https://bnbhoster.com/wp-content/uploads/2018/12/presentation.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://demo.redq.io/sites/do/homepage-4.html",
+        "pageTitle": "DO",
+        "partialMatchingImages": [
+          {
+            "url": "http://demo.redq.io/sites/do/images/xcustom_sec_img.png.pagespeed.ic.UGwYGBOhqs.png"
+          }
+        ]
+      },
+      {
+        "url": "https://www.eventbrite.co.nz/d/la--new-orleans/burlesque-show/?page=19",
+        "pageTitle": "New Orleans, LA Burlesque Show Events | Eventbrite",
+        "partialMatchingImages": [
+          {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F53173309%2F278428880989%2F1%2Foriginal.jpg?h=512&amp;w=512&amp;auto=compress&amp;rect=0%2C40%2C1280%2C640&amp;s=2a822c06a6543f133fffcc4368627fb0"
+          }
+        ]
+      },
+      {
+        "url": "https://www.udemy.com/the-life-changing-habits-of-successful-and-happy-people/?site_ref=udemyfreebies.com",
+        "pageTitle": "Self-Development: Master The Habits Of Success and Happiness ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://udemy-images.udemy.com/course/750x422/1437684_41ac_13.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.udemy.com/the-life-changing-habits-of-successful-and-happy-people/",
+        "pageTitle": "Self-Development: Master The Habits Of Success and Happiness ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://udemy-images.udemy.com/course/240x135/1437684_41ac_13.jpg"
+          },
+          {
+            "url": "https://udemy-images.udemy.com/course/750x422/1437684_41ac_13.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://cosmobotanica.com/",
+        "pageTitle": "cosmobotanica - World&amp;#39;s leading premium &amp;amp;luxury Brand Cosmetics ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cosmobotanica.com/wp-content/uploads/2018/06/lady.png"
+          }
+        ]
+      },
+      {
+        "url": "https://willdenfamilydental.com/",
+        "pageTitle": "Willden Dentist South Jordan Utah",
+        "partialMatchingImages": [
+          {
+            "url": "https://willdenfamilydental.com/wp-content/uploads/2018/06/Slider2_Idea2b.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.eventbrite.ca/d/la--new-orleans/blues-music/?page=24",
+        "pageTitle": "New Orleans, LA Blues Music Events | Eventbrite",
+        "partialMatchingImages": [
+          {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F53173309%2F278428880989%2F1%2Foriginal.jpg?w=512&amp;auto=compress&amp;rect=0%2C40%2C1280%2C640&amp;s=fc569acd90ad25506b9acda50fb5c532"
+          }
+        ]
+      },
+      {
+        "url": "https://www.eventbrite.sg/d/la--new-orleans/movies-in-the-park/?page=13",
+        "pageTitle": "New Orleans, LA Movies In The Park Events | Eventbrite",
+        "partialMatchingImages": [
+          {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F53173309%2F278428880989%2F1%2Foriginal.jpg?w=512&amp;auto=compress&amp;rect=0%2C40%2C1280%2C640&amp;s=fc569acd90ad25506b9acda50fb5c532"
+          }
+        ]
+      },
+      {
+        "url": "https://www.facebook.com/sweetapplelambi/",
+        "pageTitle": "Apple International School - Home | Facebook",
+        "partialMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=779430282165869"
+          }
+        ]
+      },
+      {
+        "url": "https://www.underthebutton.com/article/2018/09/roommate-is-a-psychopath",
+        "pageTitle": "Here Are 5 Definitive Ways to Tell If Your Roommate Is a ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://snworksceo.imgix.net/dpn-utb/65579d92-eab2-4533-8663-be5a8ce9c1b7.sized-1000x1000.jpg?w=800"
+          }
+        ]
+      },
+      {
+        "url": "https://www.eventbrite.co.uk/d/la--new-orleans/poetry-slam/",
+        "pageTitle": "New Orleans, LA Poetry Slam Events | Eventbrite",
+        "partialMatchingImages": [
+          {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F53173309%2F278428880989%2F1%2Foriginal.jpg?h=512&amp;w=512&amp;auto=compress&amp;rect=0%2C40%2C1280%2C640&amp;s=2a822c06a6543f133fffcc4368627fb0"
+          }
+        ]
+      },
+      {
+        "url": "https://www.facebook.com/Ucanvisa/",
+        "pageTitle": "UCAN Visa consultants - Home | Facebook",
+        "partialMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=779430282165869"
+          }
+        ]
+      },
+      {
+        "url": "https://briateksms.com/fedpodam/",
+        "pageTitle": "The Federal Polytechnic Damaturu - Briatek Computers Nig Ltd",
+        "partialMatchingImages": [
+          {
+            "url": "https://briateksms.com/portal/images/questionImage.png"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://image.shutterstock.com/image-photo/angry-young-woman-pointing-eyes-450w-88427566.jpg"
+      },
+      {
+        "url": "https://st2.depositphotos.com/3977247/10178/i/950/depositphotos_101783274-stock-photo-smiling-business-woman-pointing-finger.jpg"
+      },
+      {
+        "url": "https://previews.123rf.com/images/pepscostudio/pepscostudio1505/pepscostudio150500051/39784376-happy-young-asian-woman-pointing-her-finger-at-camera-isolated-on-white-background.jpg"
+      },
+      {
+        "url": "https://static9.depositphotos.com/1570716/1075/i/950/depositphotos_10755322-stock-photo-pretty-young-woman-pointing-at.jpg"
+      },
+      {
+        "url": "https://l450v.alamy.com/450v/jbd85b/asia-woman-pointing-to-her-mouth-and-teeth-jbd85b.jpg"
+      },
+      {
+        "url": "https://st.depositphotos.com/1144472/4406/i/950/depositphotos_44066279-stock-photo-serious-business-woman-pointing-finger.jpg"
+      },
+      {
+        "url": "https://image.shutterstock.com/image-photo/happy-woman-pointing-her-finger-450w-131197109.jpg"
+      },
+      {
+        "url": "https://previews.123rf.com/images/vgstudio/vgstudio1107/vgstudio110700262/10024977-portrait-of-young-serious-business-woman-pointing-finger-at-viewer-isolated-on-white-background.jpg"
+      },
+      {
+        "url": "https://static5.depositphotos.com/1037778/469/i/950/depositphotos_4694123-stock-photo-portrait-of-long-brown-hair.jpg"
+      },
+      {
+        "url": "https://previews.123rf.com/images/vgstudio/vgstudio1308/vgstudio130800325/21694713-portrait-of-young-smiling-business-woman-pointing-finger-at-viewer-over-gray-background.jpg"
+      },
+      {
+        "url": "https://previews.123rf.com/images/ngarare/ngarare1204/ngarare120400467/13131416-asian-attractive-woman-pointing-finger.jpg"
+      },
+      {
+        "url": "https://st2.depositphotos.com/1003556/5854/i/950/depositphotos_58543681-stock-photo-woman-pointing-by-a-finger.jpg"
+      },
+      {
+        "url": "https://image.shutterstock.com/image-photo/young-smiling-business-woman-pointing-450w-134349032.jpg"
+      },
+      {
+        "url": "https://image.shutterstock.com/image-photo/young-woman-pointing-see-more-260nw-1878307.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "woman pointing",
+        "languageCode": "en"
+      }
+    ]
+  }
+}
