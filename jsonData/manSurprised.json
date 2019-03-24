@@ -1,0 +1,1193 @@
+{
+  "faceAnnotations": [
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 531,
+            "y": 47
+          },
+          {
+            "x": 2340,
+            "y": 47
+          },
+          {
+            "x": 2340,
+            "y": 2150
+          },
+          {
+            "x": 531,
+            "y": 2150
+          }
+        ]
+      },
+      "fdBoundingPoly": {
+        "vertices": [
+          {
+            "x": 598,
+            "y": 558
+          },
+          {
+            "x": 1913,
+            "y": 558
+          },
+          {
+            "x": 1913,
+            "y": 1874
+          },
+          {
+            "x": 598,
+            "y": 1874
+          }
+        ]
+      },
+      "landmarks": [
+        {
+          "type": "LEFT_EYE",
+          "position": {
+            "x": 884.7929,
+            "y": 1044.8401,
+            "z": 0.0017145858
+          }
+        },
+        {
+          "type": "RIGHT_EYE",
+          "position": {
+            "x": 1215.0176,
+            "y": 1007.48486,
+            "z": -401.74564
+          }
+        },
+        {
+          "type": "LEFT_OF_LEFT_EYEBROW",
+          "position": {
+            "x": 768.5058,
+            "y": 918.8425,
+            "z": 188.07072
+          }
+        },
+        {
+          "type": "RIGHT_OF_LEFT_EYEBROW",
+          "position": {
+            "x": 864.58887,
+            "y": 904.6145,
+            "z": -169.12915
+          }
+        },
+        {
+          "type": "LEFT_OF_RIGHT_EYEBROW",
+          "position": {
+            "x": 1042.5078,
+            "y": 884.5499,
+            "z": -376.20825
+          }
+        },
+        {
+          "type": "RIGHT_OF_RIGHT_EYEBROW",
+          "position": {
+            "x": 1378.5005,
+            "y": 847.1712,
+            "z": -522.00226
+          }
+        },
+        {
+          "type": "MIDPOINT_BETWEEN_EYES",
+          "position": {
+            "x": 967.75134,
+            "y": 1004.9707,
+            "z": -278.29602
+          }
+        },
+        {
+          "type": "NOSE_TIP",
+          "position": {
+            "x": 888.19543,
+            "y": 1333.4739,
+            "z": -385.66782
+          }
+        },
+        {
+          "type": "UPPER_LIP",
+          "position": {
+            "x": 1002.9795,
+            "y": 1559.5679,
+            "z": -302.56134
+          }
+        },
+        {
+          "type": "LOWER_LIP",
+          "position": {
+            "x": 1041.4224,
+            "y": 1736.4197,
+            "z": -278.07745
+          }
+        },
+        {
+          "type": "MOUTH_LEFT",
+          "position": {
+            "x": 975.9135,
+            "y": 1624.112,
+            "z": -38.146244
+          }
+        },
+        {
+          "type": "MOUTH_RIGHT",
+          "position": {
+            "x": 1256.4711,
+            "y": 1607.9761,
+            "z": -371.95325
+          }
+        },
+        {
+          "type": "MOUTH_CENTER",
+          "position": {
+            "x": 1029.1863,
+            "y": 1630.045,
+            "z": -276.99213
+          }
+        },
+        {
+          "type": "NOSE_BOTTOM_RIGHT",
+          "position": {
+            "x": 1141.2283,
+            "y": 1368.1123,
+            "z": -364.90894
+          }
+        },
+        {
+          "type": "NOSE_BOTTOM_LEFT",
+          "position": {
+            "x": 935.8948,
+            "y": 1387.1371,
+            "z": -132.63431
+          }
+        },
+        {
+          "type": "NOSE_BOTTOM_CENTER",
+          "position": {
+            "x": 984.89215,
+            "y": 1413.1342,
+            "z": -304.06342
+          }
+        },
+        {
+          "type": "LEFT_EYE_TOP_BOUNDARY",
+          "position": {
+            "x": 834.6639,
+            "y": 1007.23755,
+            "z": -12.654868
+          }
+        },
+        {
+          "type": "LEFT_EYE_RIGHT_CORNER",
+          "position": {
+            "x": 943.01685,
+            "y": 1040.8523,
+            "z": -72.82839
+          }
+        },
+        {
+          "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+          "position": {
+            "x": 876.5939,
+            "y": 1082.7723,
+            "z": 6.800467
+          }
+        },
+        {
+          "type": "LEFT_EYE_LEFT_CORNER",
+          "position": {
+            "x": 832.8154,
+            "y": 1049.5266,
+            "z": 129.22914
+          }
+        },
+        {
+          "type": "LEFT_EYE_PUPIL",
+          "position": {
+            "x": 850.6785,
+            "y": 1044.7239,
+            "z": 9.936234
+          }
+        },
+        {
+          "type": "RIGHT_EYE_TOP_BOUNDARY",
+          "position": {
+            "x": 1201.4004,
+            "y": 966.53375,
+            "z": -439.1508
+          }
+        },
+        {
+          "type": "RIGHT_EYE_RIGHT_CORNER",
+          "position": {
+            "x": 1339.7379,
+            "y": 990.2722,
+            "z": -464.06702
+          }
+        },
+        {
+          "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+          "position": {
+            "x": 1226.8379,
+            "y": 1049.7266,
+            "z": -416.53882
+          }
+        },
+        {
+          "type": "RIGHT_EYE_LEFT_CORNER",
+          "position": {
+            "x": 1140.0939,
+            "y": 1023.38763,
+            "z": -322.08002
+          }
+        },
+        {
+          "type": "RIGHT_EYE_PUPIL",
+          "position": {
+            "x": 1226.8871,
+            "y": 1003.2312,
+            "z": -428.6294
+          }
+        },
+        {
+          "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+          "position": {
+            "x": 780.55774,
+            "y": 846.02423,
+            "z": -12.06645
+          }
+        },
+        {
+          "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+          "position": {
+            "x": 1178.9542,
+            "y": 801.79626,
+            "z": -474.565
+          }
+        },
+        {
+          "type": "LEFT_EAR_TRAGION",
+          "position": {
+            "x": 1183.1738,
+            "y": 1296.6311,
+            "z": 728.084
+          }
+        },
+        {
+          "type": "RIGHT_EAR_TRAGION",
+          "position": {
+            "x": 1949.5569,
+            "y": 1208.9006,
+            "z": -232.05138
+          }
+        },
+        {
+          "type": "FOREHEAD_GLABELLA",
+          "position": {
+            "x": 937.7314,
+            "y": 889.30725,
+            "z": -286.0954
+          }
+        },
+        {
+          "type": "CHIN_GNATHION",
+          "position": {
+            "x": 1128.5413,
+            "y": 1982.7036,
+            "z": -226.52684
+          }
+        },
+        {
+          "type": "CHIN_LEFT_GONION",
+          "position": {
+            "x": 1085.8673,
+            "y": 1672.5724,
+            "z": 528.96686
+          }
+        },
+        {
+          "type": "CHIN_RIGHT_GONION",
+          "position": {
+            "x": 1835.6134,
+            "y": 1582.9481,
+            "z": -339.77588
+          }
+        }
+      ],
+      "rollAngle": -5.933858,
+      "panAngle": -49.083736,
+      "tiltAngle": 0.39070767,
+      "detectionConfidence": 0.9940129,
+      "landmarkingConfidence": 0.57377684,
+      "joyLikelihood": "VERY_UNLIKELY",
+      "sorrowLikelihood": "VERY_UNLIKELY",
+      "angerLikelihood": "VERY_UNLIKELY",
+      "surpriseLikelihood": "VERY_LIKELY",
+      "underExposedLikelihood": "VERY_UNLIKELY",
+      "blurredLikelihood": "VERY_UNLIKELY",
+      "headwearLikelihood": "VERY_UNLIKELY"
+    }
+  ],
+  "labelAnnotations": [
+    {
+      "mid": "/m/0dzct",
+      "description": "Face",
+      "score": 0.9836323,
+      "topicality": 0.9836323
+    },
+    {
+      "mid": "/m/01k74n",
+      "description": "Facial expression",
+      "score": 0.94473374,
+      "topicality": 0.94473374
+    },
+    {
+      "mid": "/m/0f9swq",
+      "description": "Chin",
+      "score": 0.93091834,
+      "topicality": 0.93091834
+    },
+    {
+      "mid": "/m/04hgtk",
+      "description": "Head",
+      "score": 0.92288756,
+      "topicality": 0.92288756
+    },
+    {
+      "mid": "/m/0k0pj",
+      "description": "Nose",
+      "score": 0.9136439,
+      "topicality": 0.9136439
+    },
+    {
+      "mid": "/m/025kyy",
+      "description": "Forehead",
+      "score": 0.8755422,
+      "topicality": 0.8755422
+    },
+    {
+      "mid": "/m/039xj_",
+      "description": "Ear",
+      "score": 0.8246876,
+      "topicality": 0.8246876
+    },
+    {
+      "mid": "/m/037p5b",
+      "description": "Cheek",
+      "score": 0.7994795,
+      "topicality": 0.7994795
+    },
+    {
+      "mid": "/m/0dgw9r",
+      "description": "Human",
+      "score": 0.76877445,
+      "topicality": 0.76877445
+    },
+    {
+      "mid": "/m/0dzd8",
+      "description": "Neck",
+      "score": 0.7538273,
+      "topicality": 0.7538273
+    },
+    {
+      "mid": "/m/01k9lj",
+      "description": "Jaw",
+      "score": 0.7498694,
+      "topicality": 0.7498694
+    },
+    {
+      "mid": "/m/0283dt1",
+      "description": "Mouth",
+      "score": 0.67948616,
+      "topicality": 0.67948616
+    },
+    {
+      "mid": "/m/0244x1",
+      "description": "Gesture",
+      "score": 0.55751085,
+      "topicality": 0.55751085
+    },
+    {
+      "mid": "/m/02_x63",
+      "description": "Wrinkle",
+      "score": 0.54934597,
+      "topicality": 0.54934597
+    },
+    {
+      "mid": "/m/019nj4",
+      "description": "Smile",
+      "score": 0.5404296,
+      "topicality": 0.5404296
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 254,
+            "green": 254,
+            "blue": 253
+          },
+          "score": 0.2992216,
+          "pixelFraction": 0.46208888
+        },
+        {
+          "color": {
+            "red": 149,
+            "green": 192,
+            "blue": 248
+          },
+          "score": 0.21081904,
+          "pixelFraction": 0.067822225
+        },
+        {
+          "color": {
+            "red": 150,
+            "green": 116,
+            "blue": 103
+          },
+          "score": 0.032315534,
+          "pixelFraction": 0.054
+        },
+        {
+          "color": {
+            "red": 126,
+            "green": 117,
+            "blue": 110
+          },
+          "score": 0.023902511,
+          "pixelFraction": 0.0172
+        },
+        {
+          "color": {
+            "red": 13,
+            "green": 48,
+            "blue": 107
+          },
+          "score": 0.008854862,
+          "pixelFraction": 0.0015111112
+        },
+        {
+          "color": {
+            "red": 118,
+            "green": 161,
+            "blue": 223
+          },
+          "score": 0.15778375,
+          "pixelFraction": 0.033644445
+        },
+        {
+          "color": {
+            "red": 42,
+            "green": 16,
+            "blue": 21
+          },
+          "score": 0.0013737833,
+          "pixelFraction": 0.00053333334
+        },
+        {
+          "color": {
+            "red": 84,
+            "green": 124,
+            "blue": 182
+          },
+          "score": 0.03887944,
+          "pixelFraction": 0.007333333
+        },
+        {
+          "color": {
+            "red": 170,
+            "green": 200,
+            "blue": 236
+          },
+          "score": 0.034413226,
+          "pixelFraction": 0.012844444
+        },
+        {
+          "color": {
+            "red": 164,
+            "green": 152,
+            "blue": 144
+          },
+          "score": 0.020157553,
+          "pixelFraction": 0.014755555
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 298
+            },
+            {
+              "x": 2318
+            },
+            {
+              "x": 2318,
+              "y": 2493
+            },
+            {
+              "x": 298,
+              "y": 2493
+            }
+          ]
+        },
+        "confidence": 0.29999998,
+        "importanceFraction": 1.8199999
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 2493
+            },
+            {
+              "x": 2493,
+              "y": 2493
+            },
+            {
+              "y": 2493
+            }
+          ]
+        },
+        "confidence": 0.29999998,
+        "importanceFraction": 1.92
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "y": 48
+            },
+            {
+              "x": 2493,
+              "y": 48
+            },
+            {
+              "x": 2493,
+              "y": 2143
+            },
+            {
+              "y": 2143
+            }
+          ]
+        },
+        "confidence": 0.29999998,
+        "importanceFraction": 1.8
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/036jvk",
+        "score": 0.7319,
+        "description": "Stock photography"
+      },
+      {
+        "entityId": "/m/05wkw",
+        "score": 0.7073,
+        "description": "Photography"
+      },
+      {
+        "entityId": "/m/0g_7tz",
+        "score": 0.7035,
+        "description": "Fotosearch"
+      },
+      {
+        "entityId": "/m/0jg24",
+        "score": 0.6841,
+        "description": "Image"
+      },
+      {
+        "entityId": "/m/068jd",
+        "score": 0.673,
+        "description": "Photograph"
+      },
+      {
+        "entityId": "/m/07yst1",
+        "score": 0.6674,
+        "description": "Royalty-free"
+      },
+      {
+        "entityId": "/m/03zfrv",
+        "score": 0.6156,
+        "description": "stock.xchng"
+      },
+      {
+        "entityId": "/g/11cnynnt43",
+        "score": 0.6028,
+        "description": "Featurepics"
+      },
+      {
+        "entityId": "/m/04cshx4",
+        "score": 0.5409,
+        "description": "Dreamstime"
+      },
+      {
+        "entityId": "/m/03tzr9",
+        "score": 0.5038,
+        "description": "Stock footage"
+      },
+      {
+        "entityId": "/m/01dv4h",
+        "score": 0.5015,
+        "description": "Portrait"
+      },
+      {
+        "entityId": "/m/09h47q",
+        "score": 0.4893,
+        "description": "iStock"
+      },
+      {
+        "entityId": "/m/0fgl_c",
+        "score": 0.399,
+        "description": "Royalty payment"
+      },
+      {
+        "entityId": "/m/03thgk",
+        "score": 0.3419,
+        "description": "Silhouette"
+      },
+      {
+        "entityId": "/m/0k65p",
+        "score": 0.2901,
+        "description": "Hand"
+      }
+    ],
+    "fullMatchingImages": [
+      {
+        "url": "x-raw-image:///a4e10501df92ac33b79824f9ee0756877747213f8a7b8856fca8f7fc243c0837"
+      },
+      {
+        "url": "x-raw-image:///9f887e76eecb26b8316c1dd585eb7e37dbb6216de3ec5de2bad4bbf2e79ef670"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3034528.jpg"
+      },
+      {
+        "url": "https://media.istockphoto.com/photos/senior-man-picture-id92398400?k=6&amp;m=92398400&amp;s=612x612&amp;w=0&amp;h=UuXYdwcmUfih_GU3PiA-aZZMyegVDyhQ2tjkiip3rAk="
+      },
+      {
+        "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/senior-man-pictures__k17844638.jpg"
+      },
+      {
+        "url": "https://thumbs.dreamstime.com/t/homme-sup%C3%A9rieur-9763443.jpg"
+      },
+      {
+        "url": "https://www.featurepics.com/FI/Thumb/20090612/Senior-Man-1212002.jpg"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1993950714209853"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=348558245200358"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "https://www.colourbox.com/image/senior-man-playing-the-ape-making-grimaces-image-3034519",
+        "pageTitle": "&amp;quot;&lt;b&gt;senior man&lt;/b&gt; playing the ape, making ... | Stock Photo | Colourbox",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.colourbox.com/preview/3034528-senior-bald-man-is-examining-something-in-his-hand.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.com/CSP168/k17843829/",
+        "pageTitle": "Stock Photograph of Bald &lt;b&gt;senior man&lt;/b&gt; fooling around. k17843829 ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/senior-man-pictures__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.com/CSP230/k18394050/",
+        "pageTitle": "Stock Photography of amazed and astonished &lt;b&gt;senior&lt;/b&gt; bald &lt;b&gt;man&lt;/b&gt; ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/senior-man-pictures__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.dreamstime.com/senior-stock-photo-image-free-1251480",
+        "pageTitle": "Stock Photo: &lt;b&gt;Senior&lt;/b&gt; Picture. Image: 1251480 - Dreamstime.com",
+        "partialMatchingImages": [
+          {
+            "url": "https://thumbs.dreamstime.com/t/senior-man-9763443.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.com/CSP513/k18317050/",
+        "pageTitle": "Menacing &lt;b&gt;senior&lt;/b&gt; bald &lt;b&gt;man&lt;/b&gt; Stock Photography k18317050",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/senior-man-pictures__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.istockphoto.com/photos/grey-haired-old-man-face-surprised-facial-expression",
+        "pageTitle": "Royalty Free Grey Haired Old &lt;b&gt;Man&lt;/b&gt; Face Surprised Facial ... - iStock",
+        "partialMatchingImages": [
+          {
+            "url": "https://media.istockphoto.com/photos/senior-man-picture-id92398400?k=6&amp;m=92398400&amp;s=612x612&amp;w=0&amp;h=UuXYdwcmUfih_GU3PiA-aZZMyegVDyhQ2tjkiip3rAk="
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.com/CSP996/k17166214/",
+        "pageTitle": "&lt;b&gt;Senior&lt;/b&gt; bald &lt;b&gt;man&amp;#39;s&lt;/b&gt; gestures Stock Photo k17166214 - Fotosearch",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/senior-man-pictures__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.istockphoto.com/photos/silhouette-of-old-man-with-wrinkles?page=14",
+        "pageTitle": "Silhouette Of Old &lt;b&gt;Man&lt;/b&gt; With Wrinkles Pictures, Images and Stock ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://media.istockphoto.com/photos/senior-man-picture-id92398400?k=6&amp;m=92398400&amp;s=612x612&amp;w=0&amp;h=UuXYdwcmUfih_GU3PiA-aZZMyegVDyhQ2tjkiip3rAk="
+          }
+        ]
+      },
+      {
+        "url": "https://www.colourbox.com/image/senior-bald-man-is-examining-something-in-his-hand-image-3034528",
+        "pageTitle": "&lt;b&gt;Senior&lt;/b&gt; bald &lt;b&gt;man&lt;/b&gt; is examining something ... | Stock Photo | Colourbox",
+        "partialMatchingImages": [
+          {
+            "url": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3034528.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.istockphoto.com/photos/old-man-face-silhouette?page=8",
+        "pageTitle": "Royalty Free Old &lt;b&gt;Man&lt;/b&gt; Face Silhouette Pictures, Images and Stock ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://media.istockphoto.com/photos/senior-man-picture-id92398400?k=6&amp;m=92398400&amp;s=612x612&amp;w=0&amp;h=UuXYdwcmUfih_GU3PiA-aZZMyegVDyhQ2tjkiip3rAk="
+          }
+        ]
+      },
+      {
+        "url": "https://www.istockphoto.com/photos/surprised-old-man?page=7",
+        "pageTitle": "Royalty Free Surprised Old &lt;b&gt;Man&lt;/b&gt; Pictures, Images and Stock Photos ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://media.istockphoto.com/photos/senior-man-picture-id92398400?k=6&amp;m=92398400&amp;s=612x612&amp;w=0&amp;h=UuXYdwcmUfih_GU3PiA-aZZMyegVDyhQ2tjkiip3rAk="
+          }
+        ]
+      },
+      {
+        "url": "https://www.featurepics.com/online/Hand-Over-Mouth-Senior-Male-Photo-469801.aspx",
+        "pageTitle": "Hand Over Mouth &lt;b&gt;Senior&lt;/b&gt; Male Stock Photo I1469801 at FeaturePics",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.featurepics.com/FI/Thumb/20090612/Senior-Man-1212002.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.dreamstime.com/thinking-man-free-stock-photos-image-free-2313608",
+        "pageTitle": "Free Stock Photos: Thinking The &lt;b&gt;Man&lt;/b&gt; Picture. Image: 2313608",
+        "partialMatchingImages": [
+          {
+            "url": "https://thumbs.dreamstime.com/t/senior-man-9763443.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.dreamstime.com/wrinkles-free-stock-photography-image-free-4447627",
+        "pageTitle": "Free Stock Photography: Wrinkles Picture. Image: 4447627",
+        "partialMatchingImages": [
+          {
+            "url": "https://thumbs.dreamstime.com/t/senior-man-9763443.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.dreamstime.com/wow-free-stock-photo-image-free-3588105",
+        "pageTitle": "Education background: serious &lt;b&gt;man&lt;/b&gt; in a ... - Dreamstime.com",
+        "partialMatchingImages": [
+          {
+            "url": "https://thumbs.dreamstime.com/t/senior-man-9763443.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.featurepics.com/online/Surprised-About-Something-1539672.aspx",
+        "pageTitle": "Woman Surprised About Something Picture - FeaturePics.com",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.featurepics.com/FI/Thumb/20090612/Senior-Man-1212002.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.nl/CSP230/k18394050/",
+        "pageTitle": "Stock Fotografie - verbaasd, en, verbaasde, &lt;b&gt;senior&lt;/b&gt;, kale &lt;b&gt;man&lt;/b&gt; ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/hogere-mens-beelden__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.nl/CSP839/k18317046/",
+        "pageTitle": "Stock Afbeeldingen - verbaasd, en, verbaasde, &lt;b&gt;senior&lt;/b&gt;, kale &lt;b&gt;man&lt;/b&gt; ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/hogere-mens-beelden__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.nl/CSP513/k18317050/",
+        "pageTitle": "Dreigend, &lt;b&gt;senior&lt;/b&gt;, kale &lt;b&gt;man&lt;/b&gt; Stock Fotografie k18317050",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/hogere-mens-beelden__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.facebook.com/Stabile1Zahnarztpraxis/",
+        "pageTitle": "Stabile1 Zahnarztpraxis - Home | Facebook",
+        "partialMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1993950714209853"
+          }
+        ]
+      },
+      {
+        "url": "https://www.colourbox.dk/billede/senior-skaldet-mand-undersoeger-noget-i-haanden-billede-3034528",
+        "pageTitle": "&lt;b&gt;Senior&lt;/b&gt; skaldet mand undersøger noget i ... | Stock foto | Colourbox",
+        "partialMatchingImages": [
+          {
+            "url": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3034528.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://vbg.arbeiterkammer.at/service/zeitschriftenundstudien/AKtion/AKtion2016/AKtion_Oktober_2016.pdf",
+        "pageTitle": "Der Sonntag muss freie Zeit bleiben - AK Vorarlberg - Arbeiterkammer",
+        "fullMatchingImages": [
+          {
+            "url": "x-raw-image:///a4e10501df92ac33b79824f9ee0756877747213f8a7b8856fca8f7fc243c0837"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.nl/CSP756/k18394053/",
+        "pageTitle": "Stock Foto - kaal, hogere mens, pluk, zijn, oor k18394053 - Zoek ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/hogere-mens-beelden__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.colourbox.de/bild/senior-glatzkopfiger-mann-pruft-etwas-in-der-hand-bild-3034528",
+        "pageTitle": "&lt;b&gt;Senior&lt;/b&gt; glatzköpfiger Mann prüft etwas ... | Stockfoto | Colourbox",
+        "partialMatchingImages": [
+          {
+            "url": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3034528.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://vbg.arbeiterkammer.at/service/zeitschriftenundstudien/AKtion/AKtion2016/AKtion_November_2016_WEB_DS.pdf",
+        "pageTitle": "Was heißt schon Kollektivvertrag? - AK Vorarlberg - Arbeiterkammer",
+        "fullMatchingImages": [
+          {
+            "url": "x-raw-image:///9f887e76eecb26b8316c1dd585eb7e37dbb6216de3ec5de2bad4bbf2e79ef670"
+          }
+        ]
+      },
+      {
+        "url": "https://es-la.facebook.com/pages/category/Dentist---Dental-Office/Stabile1Zahnarztpraxis/posts/",
+        "pageTitle": "Stabile1 Zahnarztpraxis - Publicaciones | Facebook",
+        "partialMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1993950714209853"
+          }
+        ]
+      },
+      {
+        "url": "https://de-de.facebook.com/Stabile1Zahnarztpraxis/",
+        "pageTitle": "Stabile1 Zahnarztpraxis - Startseite | Facebook",
+        "partialMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1993950714209853"
+          }
+        ]
+      },
+      {
+        "url": "https://mobile.facebook.com/Stabile1Zahnarztpraxis/",
+        "pageTitle": "Stabile1 Zahnarztpraxis - M.Facebook",
+        "partialMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1993950714209853"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.it/CSP852/k18317044/",
+        "pageTitle": "Archivio Fotografico - schifato, anziano, uomo calvo k18317044 ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/uomo-senior-immagini__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.it/CSP230/k18394050/",
+        "pageTitle": "Archivio fotografico - stupito, e, stupito, anziano, uomo calvo ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/uomo-senior-immagini__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.com.mx/CSP652/k17843847/",
+        "pageTitle": "Foto - hombre mayor, escuchar k17843847 - Buscar fotos e ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/hombre-mayor-fotos__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.ae/CSP605/k17843822/",
+        "pageTitle": "ألبوم الصور - أصلع, الرجل الأرشد, ب, عدسات k17843822 - ابحث عن ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/%D8%A7%D9%84%D8%B1%D8%AC%D9%84-%D8%A7%D9%84%D8%A3%D8%B1%D8%B4%D8%AF-%D8%A7%D9%84%D9%84%D9%88%D8%AD%D8%A7%D8%AA__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.ae/CSP756/k18394053/",
+        "pageTitle": "ألبوم الصور - أصلع, الرجل الأرشد, إختيار, له, إذن k18394053 - ابحث عن ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/%D8%A7%D9%84%D8%B1%D8%AC%D9%84-%D8%A7%D9%84%D8%A3%D8%B1%D8%B4%D8%AF-%D8%A7%D9%84%D9%84%D9%88%D8%AD%D8%A7%D8%AA__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.ae/CSP725/k17843834/",
+        "pageTitle": "ألبوم الصور - أصلع, الرجل الأرشد, عبث, around. k17843834 - ابحث عن ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/%D8%A7%D9%84%D8%B1%D8%AC%D9%84-%D8%A7%D9%84%D8%A3%D8%B1%D8%B4%D8%AF-%D8%A7%D9%84%D9%84%D9%88%D8%AD%D8%A7%D8%AA__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.fr/CSP839/k18317046/",
+        "pageTitle": "Banque d&amp;#39;Images - stupéfié, et, étonné, personne agee, homme ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/homme-a%C3%AEn%C3%A9-images__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.fr/CSP108/k18317053/",
+        "pageTitle": "Banque de Photo - fâché, personne agee, homme chauve ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/homme-a%C3%AEn%C3%A9-images__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.ae/CSP996/k17166224/",
+        "pageTitle": "ألبوم الصور - أكبر سنا, أصلع, سنإ, الإيماءات k17166224 - ابحث عن ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/%D8%A7%D9%84%D8%B1%D8%AC%D9%84-%D8%A7%D9%84%D8%A3%D8%B1%D8%B4%D8%AF-%D8%A7%D9%84%D9%84%D9%88%D8%AD%D8%A7%D8%AA__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.es/CSP815/k17844627/",
+        "pageTitle": "Foto - divertido, hombre mayor k17844627 - Buscar fotos e ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/hombre-mayor-fotos__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.com.tr/CSP605/k17843822/",
+        "pageTitle": "Hazır Fotoğraf - kel, yaşlı adam, ile, gözlük k17843822 - Fotoğraf ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/ya%C5%9Fl%C4%B1-adam-resimler__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.es/CSP072/k18367142/",
+        "pageTitle": "Colección de foto - sonriente, 3º edad, hombre calvo, con, espejo ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/hombre-mayor-fotos__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.com.tr/CSP546/k17844628/",
+        "pageTitle": "Resimler - şüpheli, yaşlı adam k17844628 - Fotoğraf, Resim, Baskı ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/ya%C5%9Fl%C4%B1-adam-resimler__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.co.il/CSP700/k17844630/",
+        "pageTitle": "מאגר תמונות - מצחיק, איש בכיר k17844630 - חיפוש תמונות, תמונות קיר ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/%D7%90%D7%99%D7%A9-%D7%91%D7%9B%D7%99%D7%A8-%D7%A1%D7%A8%D7%98%D7%99%D7%9D__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.es/CSP125/k17843832/",
+        "pageTitle": "Colección de foto - calvo, hombre mayor, engañar, around ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/hombre-mayor-fotos__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.fr/CSP683/k45060239/",
+        "pageTitle": "Banque de Photographies - homme aîné, étonné, à, quelque chose ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/homme-a%C3%AEn%C3%A9-images__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.fr/CSP140/k17843846/",
+        "pageTitle": "Banque d&amp;#39;Images - chauve, homme aîné, à, chien k17843846 ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/homme-a%C3%AEn%C3%A9-images__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.com.br/CSP839/k18317046/",
+        "pageTitle": "Banco de Imagens - espantado, e, surpreendido, &lt;b&gt;sênior&lt;/b&gt;, homem ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/homem-s%C3%AAnior-fotos__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.com.br/CSP379/k18394057/",
+        "pageTitle": "Foto - mãos cima, sorrindo, &lt;b&gt;sênior&lt;/b&gt;, homem calvo k18394057 ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/homem-s%C3%AAnior-fotos__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.com.tr/CSP140/k17843846/",
+        "pageTitle": "Hazır Görüntüler - kel, yaşlı adam, ile, köpek k17843846 - Fotoğraf ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/ya%C5%9Fl%C4%B1-adam-resimler__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.com.tr/CSP168/k17843829/",
+        "pageTitle": "Hazır Fotoğraf - kel, yaşlı adam, aldatıyor, around. k17843829 ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/ya%C5%9Fl%C4%B1-adam-resimler__k17844638.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fotosearch.co.il/CSP513/k18317050/",
+        "pageTitle": "לאים, בכור, איש קירח מאגר תמונות k18317050 - מאגר צילומים + קטעי צילום",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-grid.fotosearch.com/CSP/CSP016/%D7%90%D7%99%D7%A9-%D7%91%D7%9B%D7%99%D7%A8-%D7%A1%D7%A8%D7%98%D7%99%D7%9D__k17844638.jpg"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3033522.jpg"
+      },
+      {
+        "url": "https://previews.123rf.com/images/starush/starush0703/starush070300068/844219-bald-senior-man-yawns-emotional-portraits-series-isolated-on-white-.jpg"
+      },
+      {
+        "url": "https://st3.depositphotos.com/1177973/17960/i/1600/depositphotos_179609558-stock-photo-charismatic-thoughtful-senior-man-on.jpg"
+      },
+      {
+        "url": "https://i.pinimg.com/236x/85/bb/e4/85bbe451036ba11f70f1c8b19c4b93a6--hairstyles-for-thick-hair-mens-hairstyles.jpg"
+      },
+      {
+        "url": "https://us.123rf.com/450wm/jedimaster/jedimaster1506/jedimaster150601422/41807501-senior-japanese-man-heart-attack.jpg?ver=6"
+      },
+      {
+        "url": "https://thumbs.dreamstime.com/z/senior-man-surprised-809102.jpg"
+      },
+      {
+        "url": "https://media.istockphoto.com/photos/senior-man-thinking-picture-id174894617?k=6&amp;m=174894617&amp;s=612x612&amp;w=0&amp;h=naXpPHptxv5YKCNPSQhntB823wxifchbmU0mDXNXsZo="
+      },
+      {
+        "url": "https://thumbs.dreamstime.com/z/close-up-portrait-elegant-senior-man-isolated-white-bac-background-68802276.jpg"
+      },
+      {
+        "url": "https://previews.123rf.com/images/alexraths/alexraths1211/alexraths121100022/16495223-portrait-of-a-thoughtful-senior-man-looking-away.jpg"
+      },
+      {
+        "url": "https://www.crystalgraphicsimages.com/photo/nice-chat-close-up-handsome-grey-haired-senior-man_cg2p26229788c_th.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "Senior Man"
+      }
+    ]
+  }
+}
